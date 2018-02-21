@@ -11,5 +11,6 @@ Images are grouped in three areas, pictures of dogs, cats and babies and in the 
 ## Bonus points for (but not necessary):
 Use of any animation (e.g simple XAML page transitions to demonstrate working knowledge) , XAML storyboards or UWP visual layer animations (optional) that would make it a nice user experience. 
 
+## Implementation
 ### Screenshot
 ![Example](https://github.com/erossini/UWPImageViewer/blob/master/Screenshots/Example.PNG)
